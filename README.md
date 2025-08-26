@@ -1,5 +1,6 @@
 # 💫 About Me:
 Backend Developer | Code Enthusiast | Life Optimizer
+
 Hi there! 👋 I'm Tu - a passionate backend developer on a mission to master the art of building robust, scalable systems. My philosophy is beautifully simple: Learn. Code. Eat. Sleep. Repeat. (not necessarily in that order, depending on how interesting the bug is! 😄)
 Currently navigating the exciting journey of software development, I'm deeply fascinated by the invisible magic that happens behind the scenes - databases talking to servers, APIs orchestrating seamless data flows, and elegant code architectures that just... work.
 
