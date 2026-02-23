@@ -1,2 +1,2 @@
 ## My 3D Contribution Calendar
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
