@@ -55,5 +55,4 @@ I am a **Backend Engineer** dedicated to the craft of building robust, distribut
   <br/>
   <i>"The best error message is the one that never needs to be displayed."</i>
   <br/><br/>
-  [![](https://visitcount.itsvg.in/api?id=tunguyen005&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
