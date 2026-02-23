@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌌 Tú Nguyễn
-### 🏗️ Distributed Systems Engineer | Backend Strategist
+# 🌌 NGUYỄN TRẦN MINH TÚ
+### 🏗️ Solution Architect | Backend Strategist
 
 *"Engineering high-concurrency architectures where scalability meets precision."*
 
