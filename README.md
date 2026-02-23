@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 NGUYỄN TRẦN MINH TÚ
+# NGUYỄN TRẦN MINH TÚ
 ### 🏗️ Solution Architect | Backend Strategist
 
 *"Engineering high-concurrency architectures where scalability meets precision."*
