@@ -21,25 +21,27 @@
 
 # 💫 Professional Identity
 
-I am a **Backend Engineer** dedicated to the craft of building robust, distributed environments. My focus lies at the intersection of system reliability and high-throughput data processing. I don't just write code; I design the digital nervous systems that power modern applications.
+I am a **Backend Engineer** dedicated to the craft of building robust, distributed environments. My focus lies at the intersection of system reliability and high-throughput data processing. I design the digital nervous systems that power modern applications.
 
-> **Core Mission:** Bridging the gap between complex business logic and seamless system performance. I am currently evolving into a **Senior Backend Architect**, specializing in resilient infrastructure and cloud-native solutions.
+### 🏛️ Architectural Philosophy:
+* **Clean Architecture & Domain-Driven Design (DDD):** Decoupling business logic from frameworks to ensure long-term maintainability and testability.
+* **Architectural Patterns:** Proficient in implementing **MVC**, **Microservices**, and **Event-Driven** patterns tailored to specific scalability needs.
 
 ### 🚀 Technical Specializations:
 * 🛠️ **Microservices Orchestration:** Deeply integrated into the **Spring Ecosystem** and **.NET Core** for building modular, fault-tolerant services.
 * ⚡ **Performance & Caching:** Leveraging **Redis** as a strategic layer to minimize latency and manage state in distributed environments.
-* 📨 **Event-Driven Architecture:** Implementing asynchronous communication and data streaming via **Kafka** and **RabbitMQ** to ensure high availability and eventual consistency.
-* 🌐 **Full-stack Agility:** Proficient in rapid prototyping with **Express.js** and crafting interactive interfaces using **React.js**.
+* 📨 **Event-Driven Design:** Implementing asynchronous communication via **Kafka** and **RabbitMQ** for high availability and eventual consistency.
+* 💎 **Data Excellence:** Advanced mastery of **SQL Server**—optimizing complex queries, indexing strategies, and database schema design for peak performance.
 
 ---
 
 # 💻 Technology Stack
 
-### ⚙️ Core Backend & Frameworks
-![Spring](https://img.shields.io/badge/Spring_Ecosystem-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![.Net](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+### ⚙️ Core Backend & ORM
+![Spring](https://img.shields.io/badge/Spring_Ecosystem-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![.Net](https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 
 ### 🗄️ Persistence & Distributed Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📨 Messaging & Stream Processing
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
